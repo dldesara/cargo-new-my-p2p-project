@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": "Party in the USA",
+    "lyric": "So I put my hands up, they're playin my song, the butterflies fly away",
+    "Year": "2009",
+    "Artist":  "Miley Cyrus",
+    "public": true
+  },
+  {
+    "id": 1,
+    "name": " Call Me Maybe",
+    "lyric": "Hey, I just met you, and this is crazy. But here's my number, so call me, maybe",
+    "Year": "2012",
+    "Artist": "Carly Rae Jepsen",
+    "public": true
+  },
+  {
+    "id": 2,
+    "name": " Crazy in Love",
+    "lyric": "How I'm feeling and my pride is the one to blame,cause I know I don't understand, just how your love can do what no one else can",
+    "Year": "2003",
+    "Artist": "Beyonce featuring Jay-Z",
+    "public": true
+  },
+  {
+    "id": 3,
+    "name": " Umbrella",
+    "lyric": "Now that it's raining more than ever, know that we'll still have each ohter. You can stand under my umbrella",
+    "Year": "2010",
+    "Artist": "Rihanna featuring Jay-Z",
+    "public": true
+  }
+]
